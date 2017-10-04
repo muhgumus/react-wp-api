@@ -1,0 +1,29 @@
+{
+  "name": "react-wp-api",
+  "version": "0.1.0",
+  "description": "Wordpress Rest Api for React, React native , pure JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhgumus/react-wp-api.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "Rest",
+    "api",
+    "react",
+    "react",
+    "native",
+    "wp",
+    "wp-api"
+  ],
+  "author": "Muhammed GÜMÜŞ <muhgumus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhgumus/react-wp-api/issues"
+  },
+  "homepage": "https://github.com/muhgumus/react-wp-api#readme"
+}
