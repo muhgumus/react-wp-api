@@ -11,7 +11,7 @@ Wordpress REST API (v2.0) component for JS (React, React native or pureJS)
 ## Usage
 
     import _WP from 'react-wp-api';
-    var WP = _WP('http://muhammedgumus.com')
+    var WP = new _WP('http://muhammedgumus.com')
 
     
 Categories 
